@@ -1,2 +1,2 @@
 #!/bon/bash
-cp -un ".html ../
+cp -u *.html..
